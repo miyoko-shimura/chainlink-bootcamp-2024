@@ -126,3 +126,4 @@ contract TransferUSDCBasic {
         IERC20(_token).transfer(_beneficiary, amount);
     }
 }
+
