@@ -20,4 +20,3 @@ contract Token is ERC20, AccessControl {
         return 2;
     }    
 }
-
