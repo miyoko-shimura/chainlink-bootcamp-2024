@@ -12,3 +12,4 @@ contract Register {
         info = _info;
     }
 }
+
