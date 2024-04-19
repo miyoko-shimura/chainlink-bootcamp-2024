@@ -33,12 +33,6 @@ https://www.youtube.com/watch?v=jK6NMxz3wvc
 ​Day 10
 https://www.youtube.com/watch?v=7i6gAp5Sx84
 
-​To follow Chainlink events and stay up to date with the latest news and developments, follow our social media and join our community:
 
-​Twitter
-https://twitter.com/chainlink
-
-​Discord
-https://discord.gg/chainlink
 
 ​
