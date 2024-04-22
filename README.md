@@ -1,8 +1,10 @@
 # Chainlink-Bootcamp-2024
 Chainlink Bootcamp 2024<br>
 
-Link to Sessions:
+## My Repo
+https://github.com/miyoko-shimura/Chainlink-Bootcamp-2024/
 
+## Link to Sessions:
 Day 1
 https://www.youtube.com/watch?v=G7V-G7RURDI
 
