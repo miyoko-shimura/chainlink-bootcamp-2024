@@ -1,7 +1,7 @@
 # Chainlink-Bootcamp-2024
 Chainlink Bootcamp 2024<br>
 
-## My Repo
+## My Repo:
 https://github.com/miyoko-shimura/Chainlink-Bootcamp-2024/
 
 ## Link to Sessions:
